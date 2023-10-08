@@ -42,5 +42,4 @@ public class ImageController {
         }
         return "redirect:/" + request.getServerName();
     }
-
 }
